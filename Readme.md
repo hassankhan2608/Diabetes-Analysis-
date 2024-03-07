@@ -1,8 +1,10 @@
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
         <p>Diabetes streamlit application screenshort</p>
-        <img src="Assets/diabetes app.png" alt="Top" width="90%"/>
     </div>
+
+![image](https://github.com/hassankhan2608/Diabetes-Analysis-/assets/149296407/a513d908-8b53-4ff1-b278-624c364df5a1)
+
 
     
 ## Diabetes Prediction with Machine Learning
